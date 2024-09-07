@@ -1,4 +1,4 @@
-# Darwin's Camouflage 🌈
+# Darwin's Camouflage 🦎
 Welcome to Darwin's Camouflage! This project applies genetic algorithms to evolve a population of color matrices, optimizing them to blend seamlessly with a specified background color.
 
 ## 🚀 Overview
@@ -20,22 +20,10 @@ This repository showcases how genetic algorithms can be used for color optimizat
 Watch the evolution of color matrices as they improve their blend with the background color. The video is here:
 <br/>
 <br/>
-![Evolving](https://github.com/user-attachments/assets/8c139a2d-e775-4f58-ba1a-346c8a87b2f6)
-<br/>
-### [Watch Video Here](https://www.youtube.com/watch?v=tYSzAyuey0s&ab_channel=AvneetSingh)
-
-## 🛠️ Getting Started
-
-Download the .ipynb file, and upload it to Kaggle or Collab. Run the notebook cell by cell.
-
-## ✨ Features
-
-- **Color Optimization**: Evolve and optimize a population of colors using genetic algorithms.
-- **Visual Results**: View images and videos showcasing the blending process and improvements over generations.
-- **Well-Documented Code**: Includes Python code with detailed comments and explanations to help you understand the implementation.
+<img src="https://github.com/user-attachments/assets/8c139a2d-e775-4f58-ba1a-346c8a87b2f6" width="200px">
+### [![Youtube](https://img.shields.io/badge/youtube-asa?style=for-the-badge&logo=youtube&logoColor=white&labelColor=%23FF0000&color=%23FF0000)](https://www.youtube.com/watch?v=tYSzAyuey0s&ab_channel=AvneetSingh)
 
 ---
-
 ## 📸 Visuals
 
 ### Initial Population
@@ -43,8 +31,16 @@ Download the .ipynb file, and upload it to Kaggle or Collab. Run the notebook ce
 
 #### Final Generation
 ![Final Generation](https://github.com/user-attachments/assets/d5fc5cbc-a483-4bdd-ac2a-7f0ed8a23270)
-
 ---
+
+## ✨ Features
+- **Color Optimization**: Evolve and optimize a population of colors using genetic algorithms.
+- **Visual Results**: View images and videos showcasing the blending process and improvements over generations.
+- **Well-Documented Code**: Includes Python code with detailed comments and explanations to help you understand the implementation.
+
+
+## 🛠️ Getting Started
+Download the .ipynb file, and upload it to Kaggle or Collab. Run the notebook cell by cell.
 
 ## 💡 Contributing
 
